@@ -2,6 +2,8 @@
 
 Animated clock with canvas element and requestAnimationFrame()
 
+:warning: This clock is currently in Pacific Time (PT)
+
 [:red_circle:	Live ](https://boisterous-snickerdoodle-6733ba.netlify.app/)
 
 
